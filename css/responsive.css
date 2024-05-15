@@ -1,0 +1,1010 @@
+@media (max-width: 1600px) {
+  .get_in_touch {
+    top: 75px;
+  }
+  .hdr_btn {
+    height: 100px;
+    line-height: 100px;
+  }
+  .logo {
+    margin-left: 0;
+  }
+  .investing_outr::after,
+  .investing_outr::before,
+  .investing_img::after {
+    display: none;
+  }
+  .investing_img {
+    margin-right: 0;
+  }
+  .service_sec::after {
+    width: 85%;
+  }
+  .about_bottom::after {
+    display: none;
+  }
+}
+@media (max-width: 1440px) {
+  .map_img {
+    text-align: center;
+  }
+  .pricing_row {
+    margin: 0 -15px;
+  }
+  .pricing_col {
+    padding: 0 15px;
+  }
+  .language_switch {
+    margin-right: 25px;
+  }
+  .get_in_touch {
+    position: static;
+    margin-left: 25px;
+  }
+  .hdr_btn {
+    height: 72px;
+    line-height: 72px;
+    padding: 0 40px;
+  }
+  .service_sec::after {
+    display: none;
+  }
+  .service_bottom {
+    background-color: #103871;
+  }
+  .service_bottom {
+    padding: 25px 35px;
+    max-width: 100%;
+  }
+}
+@media (max-width: 1366px) {
+  .nav-link {
+    padding: 0 20px !important;
+  }
+  .bnr_content h1, .inner_bnr_content h1 {
+    font-size: 65px;
+  }
+  .page_hdng h2 {
+    font-size: 60px;
+  }
+  .counter_txt p {
+    font-size: 20px;
+  }
+  .counter_txt h2 {
+    font-size: 45px;
+  }
+  .pricing_innr {
+    padding: 50px 30px;
+  }
+  .pricing_txt h2 {
+    font-size: 70px;
+  }
+  .pricing_txt h2 sup {
+    font-size: 25px;
+    top: -35px;
+  }
+  .testimonial_box {
+    padding: 25px;
+  }
+  .right_testimonial_part {
+    width: 52%;
+  }
+  .about_after_img {
+    top: -63px;
+  }
+  .contact_us_address h2, .contact_us_address li {
+    margin-bottom: 25px;
+  }
+}
+@media (max-width: 1280px) {
+  .language_switch span {
+    margin-right: 5px;
+  }
+  .call_us li, .social_media li {
+    padding: 0 15px;
+  }
+  .service_icon {
+    width: 190px;
+    height: 190px;
+    line-height: 190px;
+    margin: 0 auto 15px;
+  }
+  .service_txt {
+    padding: 0 20px;
+  }
+  .service_txt h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .service_txt p {
+    font-size: 18px;
+  }
+  .service_sec .page_hdng, .about_top .page_hdng, .about_bottom .page_hdng h2, .invest_sec .page_hdng, .blog_sec .page_hdng, .pricing_sec .page_hdng, .brand_sec .page_hdng, .footer_top .page_hdng, .investing_outr .page_hdng h2, .about_us_sec .page_hdng, .focus_sec .page_hdng {
+    margin-bottom: 40px;
+  }
+  .service_slider {
+    padding: 0 0 30px;
+  }
+  .page_hdng h2 {
+    font-size: 50px;
+  }
+  .page_hdng h6 {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+  }
+  .about_bottom {
+    padding: 180px 0 45px;
+  }
+  .invest_txt p {
+    font-size: 14px;
+  }
+  .invest_txt h2 {
+    font-size: 45px;
+    line-height: 39px;
+  }
+  .invest_txt h2 sup {
+    font-size: 22px;
+    top: -20px;
+  }
+  .pricing_img {
+    width: 95px;
+    height: 95px;
+    margin: 0 auto 15px;
+  }
+  .pricing_txt h5 {
+    font-size: 35px;
+  }
+  .pricing_txt h6 {
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  .pricing_btn_area {
+    margin-top: 20px;
+  }
+  .basic_btn {
+    height: 60px;
+    padding: 0 30px;
+    font-size: 18px;
+    line-height: 60px;
+  }
+  .pricing_txt h2 {
+    font-size: 50px;
+  }
+  .pricing_txt h2 span {
+    font-size: 15px;
+  }
+  .pricing_txt h2 sup {
+    font-size: 20px;
+    top: -25px;
+  }
+  .ftr_menu {
+    padding: 0;
+  }
+  .left_testimonial_part h4 {
+    font-size: 18px;
+  }
+  .left_testimonial_part h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .left_testimonial_part p {
+    font-size: 16px;
+  }
+  .left_testimonial_part {
+    width: 425px;
+    min-width: 425px;
+    height: 425px;
+    padding-top: 155px;
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+  .right_testimonial_part {
+    width: 60%;
+  }
+  .testimonial_slider .slick-dots {
+    position: static;
+    margin-top: 50px;
+  }
+  .gun_image {
+    width: 200px;
+  }
+  .testimonial_sec {
+    padding: 125px 0;
+  }
+  .about_us_content {
+    padding: 40px;
+  }
+  .about_us_content h6 {
+    font-size: 35px;
+    line-height: 42px;
+  }
+  .about_after_img {
+    top: -106px;
+  }
+  .focus_after_img{
+    display: none;
+  }
+  .contact_us_address li a {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}
+@media (max-width: 1199px) {
+  .language_switch select {
+    font-size: 16px;
+  }
+  .nav-link {
+    padding: 0 10px !important;
+    font-size: 16px;
+  }
+  .basic_btn {
+    height: 50px;
+    padding: 0 24px;
+    font-size: 16px;
+    line-height: 50px;
+  }
+  .bnr_content h1, .inner_bnr_content h1 {
+    font-size: 45px;
+  }
+  .bnr_content p, .inner_bnr_content p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 10px;
+  }
+  .banner_video_area {
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+    position: static;
+    aspect-ratio: 16 / 5;
+    margin-top: 15px;
+  }
+  .slick-dots {
+    margin-top: 15px;
+  }
+  .banner_after_img, .about_after_img, .investing_after_img, .inner_banner_after_img, .focus_after_img{
+    display: none;
+  }
+  .service_sec, .about_bottom, .invest_sec, .investing_outr, .counter_sec, .pricing_sec, .blog_sec, .brand_sec, .footer_top, .ftr_btm, .about_us_sec, .focus_sec, .contact_us_sec, .contact_us_top.about_us_sec, .contact_us_page_sec {
+    padding: 50px 0;
+  }
+  .page_hdng h2 br{
+    display: none;
+  }
+  .page_hdng h2 {
+    font-size: 40px;
+  }
+  .about_sec {
+    padding-bottom: 0;
+  }
+  .invest_sec {
+    margin-bottom: 0;
+  }
+  .invest_col {
+    width: 33.33%;
+    margin-bottom: 16px;
+  }
+  .investing_content_area, .investing_sec {
+    padding: 0;
+  }
+  .counter_col {
+    width: 33.33%;
+    padding: 0 15px;
+    border-right: 0;
+    margin-bottom: 20px;
+  }
+  .counter_txt h2 {
+    font-size: 30px;
+  }
+  .pricing_innr {
+    padding: 20px;
+    border-radius: 0;
+  }
+  .pricing_txt h5 {
+    font-size: 25px;
+  }
+  .pricing_txt h6 {
+    font-size: 18px;
+  }
+  .pricing_txt h2 {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  .pricing_list li {
+    font-size: 16px;
+  }
+  .innter_testimonial {
+    flex-wrap: wrap;
+  }
+  .right_testimonial_part {
+    width: 100%;
+  }
+  .left_testimonial_part {
+    z-index: 2;
+  }
+  .testimonial_sec {
+    padding: 50px;
+  }
+  .blog_innr {
+    padding: 20px;
+  }
+  .blog_date_area {
+    margin-bottom: 25px;
+  }
+  .blog_txt h6 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .blog_txt p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .blog_tag_area {
+    margin-bottom: 20px;
+  }
+  .blog_btn_area a {
+    font-size: 18px;
+  }
+  .blog_txt {
+    margin-bottom: 15px;
+  }
+  .blog_tag_area {
+    display: block;
+  }
+  .blog_tag {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  .blog_tag p, .blog_category p {
+    font-size: 16px;
+  }
+  .ftr_logo, .ftr_social_list {
+    margin-bottom: 20px;
+  }
+  .newsletter_form_area {
+    padding: 15px;
+    margin-bottom: 25px;
+  }
+  .newsletter_txt h2 {
+    font-size: 30px;
+    line-height: 45px;
+  }
+  .newsletter_txt p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .ftr_address h6 {
+    margin-bottom: 10px;
+  }
+  .ftr_address {
+    margin-bottom: 15px;
+  }
+  .ftr_content p, .ftr_address p {
+    font-size: 16px;
+    line-height: 24px;
+    max-width: 100%;
+  }
+  .invest_row {
+    justify-content: center;
+  }
+  .focus_txt h6 {
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+  .focus_txt p {
+    max-width: 100%;
+  }
+  .service_col:nth-child(3n) .service_slide_item::after {
+    display: none;
+  }
+  .service_col:nth-child(4n) .service_slide_item::after {
+    display: block;
+  }
+  .service_col:last-child .service_slide_item::after{
+    display: none;
+  }
+  .service_col {
+    width: 33.33%;
+    margin-bottom: 30px;
+  }
+  .contact_us_form {
+    padding: 45px;
+    margin-bottom: 0;
+  }
+  .contact_us_form form {
+    width: 100%;
+  }
+  .contact_us_address {
+    position: static;
+    transform: translateY(0%);
+    min-height: auto;
+    width: calc(100% - 30px);
+    padding: 45px;
+    margin: 0 15px;
+  }
+  .contact_us_page_sec{
+    padding-top: 0;
+  }
+  .contact_us_address h2 {
+    font-size: 35px;
+  }
+}
+@media (max-width: 991px) {
+  .banner_img, .inner_banner_img{
+    position: relative;
+    z-index: 1;
+  }
+  .banner_img::after, .inner_banner_img::after{
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #000;
+    opacity: 0.6;
+  }
+  .bnr_content, .inner_bnr_content {
+    padding-left: 0;
+  }
+  .bnr_txt, .inner_bnr_txt {
+    text-align: center;
+  }
+  .bnr_content h1::after, .inner_bnr_content h1::after{
+    display: none;
+  }
+  .page_hdng h6, .pricing_sec .page_hdng h6, .blog_sec .page_hdng h6 {
+    margin: 0 auto 15px;
+    text-align: center;
+  }
+  .page_hdng h2 {
+    font-size: 35px;
+    text-align: center;
+  }
+  .about_img {
+    margin-bottom: 0;
+  }
+  .about_img img{
+    width: 100%;
+  }
+  .about_txt {
+    margin-bottom: 20px;
+    margin-top: 25px;
+  }
+  .about_content_col {
+    margin-bottom: 20px;
+  }
+  .progress_item {
+    margin-bottom: 20px;
+  }
+  .investing_outr .row{
+    flex-direction: column-reverse;
+  }
+  .investing_content_area{
+    padding-top: 25px;
+  }
+  .investing_btn_area {
+    margin-top: 25px;
+  }
+  .header_bottom .container{
+    flex-wrap: wrap;
+  }
+  .call_us {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .call_us ul{
+    justify-content: center;
+  }
+  .social_media{
+    width: 100%;
+  }
+  .social_media ul{
+    justify-content: center;
+  }
+  .service_slider_arrow .slick-arrow {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+    background-size: 18px;
+  }
+  .service_bottom p {
+    font-size: 17px;
+  }
+  .invest_col {
+    width: 50%;
+  }
+  .counter_col {
+    width: 50%;
+  }
+  .pricing_col, .blog_col {
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  .pricing_row, .blog_row{
+    justify-content: center;
+  }
+  .testimonial_box {
+    padding: 20px;
+  }
+  .testimonial_box p {
+    font-size: 16px;
+    margin-bottom: 25px;
+  }
+  .testi_head {
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  .testi_head figure {
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+  }
+  .testimonial_box:after {
+    top: 12px;
+  }
+  .brands_list ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .brands_list li {
+    text-align: center;
+    width: calc(100% / 4);
+    margin-bottom: 18px;
+  }
+  .newsletter_form_area{
+    flex-wrap: wrap;
+  }
+  .newsletter_txt {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .newsletter_form {
+    width: 100%;
+  }
+  .ftr_menu .col-lg-3{
+    width: 50%;
+  }
+  .ftr_innr {
+    margin-bottom: 20px;
+  }
+  .nav_menu{
+    padding: 0;
+    position: absolute;
+    top: 44px;
+    right: 15px;
+  }
+  .header_right{
+    margin-right: 50px;
+  }
+  .nav_menu{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  .navbar-toggler {
+    border: 0 !important;
+    padding: 0 !important;
+    font-size: 25px;
+    top: 44px;
+    right: 20px;
+    position: absolute;
+    color: #103871;
+  }
+  .navbar-collapse {
+    background-color: #fff;
+    position: absolute;
+    top: 90px;
+    left: 0;
+    width: 100%;
+    z-index: 9;
+    padding: 20px 0;
+  }
+  .nav-link {
+    font-size: 24px;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  .nav-link::after{
+    display: none;
+  }
+  .nav_menu .navbar-toggler:focus{
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+  .focus_txt {
+    padding-left: 0;
+  }
+  .focus_col {
+    margin-bottom: 30px;
+  }
+  .focus_txt::after{
+    display: none;
+  }
+  .about_us_content {
+    position: static;
+    transform: translateY(0%);
+    padding: 25px;
+    width: 100%;
+  }
+  .about_us_content h6 {
+    font-size: 27px;
+    line-height: 34px;
+    text-align: center;
+  }
+  .about_us_img figure {
+    max-width: 100%;
+  }
+  .about_us_txt {
+    margin-bottom: 20px;
+  }
+
+}
+@media (max-width: 767px) {
+  .service_slide_item::after{
+    display: none;
+  }
+  .service_bottom{
+    flex-wrap: wrap;
+  }
+  .service_slider_arrow {
+    width: 100%;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  .service_bottom p {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .service_bottom .basic_btn{
+    margin: 0 auto;
+  }
+  .about_content_col, .invest_col, .pricing_col, .blog_col {
+    width: 100%;
+  }
+  .progress_area {
+    padding-right: 0;
+  }
+  .counter_col{
+    flex-wrap: wrap;
+  }
+  .counter_txt{
+    width: 100%;
+    text-align: center;
+  }
+  .counter_img {
+    margin-right: 0;
+    margin: 0 auto 15px;
+  }
+  .brands_list li {
+    width: calc(100% / 3);
+  }
+  .blog_col:hover {
+    margin-top: 0;
+  }
+  .focus_col {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .focus_txt h6 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  .focus_txt p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .service_col {
+    width: 50%;
+  }
+  .service_col:nth-child(4n) .service_slide_item::after{
+    display: none;
+  }
+  .contact_us_input label {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .contact_us_form {
+    padding: 20px;
+  }
+  .contact_us_input {
+    margin-bottom: 15px;
+  }
+  .contact_us_input .form-control {
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;;
+    padding: 0 10px;
+  }
+  .contact_us_input textarea.form-control {
+    padding: 10px;
+    height: 115px;
+  }
+  .contact_us_address{
+    padding: 20px;
+  }
+}
+@media (max-width: 575px) {
+  .testimonial_box:after {
+    right: 10px;
+    width: 50px;
+  }
+  .right_background_testi img{
+    display: none;
+  }
+  .ftr_menu .col-lg-3 {
+    width: 100%;
+  }
+  .newsletter_form .form-control {
+    height: 55px;
+    font-size: 16px;
+    line-height: 55px;
+  }
+  .ftr_logo, .ftr_content p{
+    text-align: center;
+  }
+  .ftr_social_list ul{
+    justify-content: center;
+  }
+  .ftr_list li a {
+    font-size: 16px;
+  }
+  .ftr_list h6{
+    margin-bottom: 10px;
+  }
+  .newsletter_txt h2 {
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+  }
+  .newsletter_txt p{
+    text-align: center;
+  }
+  .blog_sec .page_hdng h2 {
+    margin-bottom: 15px;
+  }
+  .blog_sec .page_hdng p {
+    font-size: 16px;
+  }
+  .testimonial_box{
+    background-color: #103871;
+  }
+  .testi_head h5, .testimonial_box p{
+    color: #fff;
+  }
+  .left_testimonial_part{
+    background-image: none;
+    width: auto;
+    min-width: auto;
+    height: auto;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
+  .testimonial_sec{
+    padding: 30px 0;
+  }
+  .innter_testimonial {
+    gap: 0;
+  }
+  .header_bottom{
+    display: none;
+  }
+  .banner_img, .inner_banner_img {
+    height: 65vw;
+  }
+  .banner_img img, .inner_banner_img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .bnr_content h1, .inner_bnr_content h1 {
+    font-size: 35px;
+    margin-bottom: 15px;
+  }
+  .language_switch {
+    margin-right: 10px;
+  }
+  .get_in_touch {
+    margin-left: 10px;
+  }
+  .page_hdng h2 {
+    font-size: 27px;
+  }
+  .page_hdng h6 {
+    font-size: 18px;
+  }
+  .about_txt p, .about_content_col p, .about_us_txt p {
+    font-size: 16px;
+  }
+  .about_content_col h6 {
+    font-size: 20px;
+  }
+  .service_sec .page_hdng, .about_top .page_hdng, .about_bottom .page_hdng h2, .invest_sec .page_hdng, .blog_sec .page_hdng, .pricing_sec .page_hdng, .brand_sec .page_hdng, .footer_top .page_hdng, .investing_outr .page_hdng h2, .about_us_sec .page_hdng, .focus_sec .page_hdng {
+    margin-bottom: 20px;
+  }
+  .service_sec, .about_bottom, .invest_sec, .investing_outr, .counter_sec, .pricing_sec, .blog_sec, .brand_sec, .footer_top, .ftr_btm, .about_us_sec, .focus_sec, .contact_us_sec, .contact_us_top.about_us_sec, .contact_us_page_sec {
+    padding: 30px 0;
+  }
+  .invest_txt h2 {
+    font-size: 35px;
+    line-height: 100%;
+  }
+  .invest_txt h2 sup {
+    font-size: 18px;
+  }
+  .counter_txt h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  .service_col {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .service_btn_area {
+    padding-bottom: 0;
+    margin-top: 25px;
+  }
+  .contact_us_page_sec{
+    padding-top: 0;
+  }
+  .contact_us_address h2 {
+    font-size: 30px;
+  }
+  .contact_us_address h2, .contact_us_address li {
+    margin-bottom: 15px;
+  }
+  .contact_us_address li span {
+    margin-right: 10px;
+  }
+  .contact_us_address li a {
+    font-size: 16px;
+  }
+}
+@media (max-width: 480px) {
+  .left_testimonial_part {
+    width: 100%;
+    min-width: 100%;
+    height: auto;
+    background-size: 160px;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 0;
+    padding: 20px;
+  }
+  .hdr_btn{
+    height: 44px;
+    padding: 0 10px;
+    font-size: 14px;
+    line-height: 44px;
+  }
+  .header_right {
+    margin-right: 38px;
+  }
+  .language_switch span {
+    width: 30%;
+    display: block;
+  }
+  .logo{
+    width: 25%;
+  }
+  .nav-link {
+    font-size: 20px;
+  }
+  .banner_video_area {
+    aspect-ratio: 16 / 9;
+  }
+  .service_bottom {
+    padding: 25px;
+  }
+  .progress_txt {
+    margin-bottom: 10px;
+  }
+  .progress_txt h2, .progress_txt p {
+    font-size: 16px;
+  }
+  .counter_col {
+    width: 100%;
+  }
+  .counter_txt p {
+    font-size: 16px;
+  }
+  .blog_date h6 {
+    font-size: 30px;
+    line-height: 20px;
+  }
+  .blog_date p {
+    font-size: 15px;
+  }
+  .blog_date_area {
+    margin-top: 0;
+  }
+  .blog_date {
+    border: 1px solid #000000;
+    padding: 10px;
+  }
+  .newsletter_submit {
+    position: static;
+    border-radius: 0;
+    font-size: 16px;
+    line-height: 50px;
+    height: 50px;
+    width: 100%;
+  }
+  .newsletter_form .form-control {
+    border-radius: 0;
+    padding: 0 20px;
+  }
+}
+@media (max-width: 420px) {
+  .blog_innr {
+    padding: 15px;
+  }
+  .banner_img, .inner_banner_img {
+    height: 95vw;
+  }
+  .bnr_content h1, .inner_bnr_content h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .page_hdng h2 {
+    font-size: 22px;
+  }
+  .service_txt h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .service_txt {
+    padding: 0;
+  }
+  .brands_list li {
+    width: calc(100% / 2);
+  }
+  .language_switch {
+    margin-right: 5px;
+  }
+  .language_switch select {
+    font-size: 14px;
+  }
+  .language_switch {
+    justify-content: flex-end;
+  }
+  .language_switch span {
+    margin-right: 0;
+  }
+  .get_in_touch{
+    display: none;
+  }
+  .navbar-toggler {
+    font-size: 18px;
+    top: 35px;
+  }
+  .navbar-toggler {
+    font-size: 20px;
+    top: 36px;
+  }
+  .page_hdng h6 {
+    padding-bottom: 10px;
+  }
+  .about_us_content {
+    padding: 15px;
+  }
+  .about_us_content h6 {
+    font-size: 20px;
+    line-height: 27px;
+  }
+  .contact_us_form {
+    padding: 15px;
+  }
+  .contact_us_address {
+    padding: 15px;
+  }
+  .contact_us_address li span {
+    width: 7%;
+  }
+}
